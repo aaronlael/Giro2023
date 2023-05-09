@@ -249,7 +249,29 @@ purple = """1		BEL	EVENEPOEL Remco	Soudal Quick-Step	15
 
 
 
-scriptresults = """kyle - pink - ROGLIC Primoz - 6
+scriptresults = """kyle - pink - ROGLIC Primoz - 6   
+kyle - pink - EVENEPOEL Remco - 1 
+kyle - pink - CARTHY Hugh - 57    
+kyle - pink - ALMEIDA Joao - 3    
+kyle - pink - THOMAS Geraint - 9  
+kyle - white - EVENEPOEL Remco - 1
+kyle - white - ALMEIDA Joao - 2   
+kyle - white - MCNULTY Brandon - 3
+kyle - white - ARENSMAN Thymen - 8
+kyle - white - HUYS Laurens - 38
+kyle - blue - VINE Jay - 4
+kyle - blue - PINOT Thibaut - 4
+kyle - blue - BOUWMAN Koen - 4
+kyle - blue - DOMBROWSKI Joe - 4
+kyle - blue - BARGUIL Warren - 4
+kyle - purple - GAVIRIA Fernando - 11
+kyle - purple - MATTHEWS Michael - 11
+kyle - purple - ACKERMANN Pascal - 11
+kyle - purple - PEDERSEN Mads - 11
+kyle - purple - CAVENDISH Mark - 11
+kyle - 198
+
+kyle - pink - ROGLIC Primoz - 6
 kyle - pink - EVENEPOEL Remco - 1
 kyle - pink - CARTHY Hugh - 57
 kyle - pink - ALMEIDA Joao - 3
@@ -269,7 +291,7 @@ kyle - purple - MATTHEWS Michael - 11
 kyle - purple - ACKERMANN Pascal - 11
 kyle - purple - PEDERSEN Mads - 11
 kyle - purple - CAVENDISH Mark - 11
-kyle - 202
+kyle - 198
 lee - pink - ROGLIC Primoz - 6
 lee - pink - EVENEPOEL Remco - 1
 lee - pink - THOMAS Geraint - 9
@@ -290,7 +312,50 @@ lee - purple - PEDERSEN Mads - 11
 lee - purple - MATTHEWS Michael - 11
 lee - purple - CORT Magnus - 11
 lee - purple - EVENEPOEL Remco - 1
-lee - 184
+lee - 180
+
+kyle - pink - ROGLIC Primoz - 6
+kyle - pink - EVENEPOEL Remco - 1
+kyle - pink - CARTHY Hugh - 57
+kyle - pink - ALMEIDA Joao - 3
+kyle - pink - THOMAS Geraint - 9
+kyle - white - EVENEPOEL Remco - 1
+kyle - white - ALMEIDA Joao - 2
+kyle - white - MCNULTY Brandon - 3
+kyle - white - ARENSMAN Thymen - 8
+kyle - white - HUYS Laurens - 38
+kyle - blue - VINE Jay - 4
+kyle - blue - PINOT Thibaut - 4
+kyle - blue - BOUWMAN Koen - 4
+kyle - blue - DOMBROWSKI Joe - 4
+kyle - blue - BARGUIL Warren - 4
+kyle - purple - GAVIRIA Fernando - 11
+kyle - purple - MATTHEWS Michael - 11
+kyle - purple - ACKERMANN Pascal - 11
+kyle - purple - PEDERSEN Mads - 11
+kyle - purple - CAVENDISH Mark - 11
+kyle - 198
+lee - pink - ROGLIC Primoz - 6
+lee - pink - EVENEPOEL Remco - 1
+lee - pink - THOMAS Geraint - 9
+lee - pink - ALMEIDA Joao - 3
+lee - pink - PINOT Thibaut - 47
+lee - white - EVENEPOEL Remco - 1
+lee - white - ALMEIDA Joao - 2
+lee - white - TOUMIRE Hugo - 37
+lee - white - MCNULTY Brandon - 3
+lee - white - HEALY Ben - 11
+lee - blue - PINOT Thibaut - 4
+lee - blue - KUSS, Sepp - 4
+lee - blue - ROGLIČ Primož - 4
+lee - blue - EVENEPOEL Remco - 4
+lee - blue - HART Tao Geoghegan - 4
+lee - purple - CAVENDISH Mark - 11
+lee - purple - PEDERSEN Mads - 11
+lee - purple - MATTHEWS Michael - 11
+lee - purple - CORT Magnus - 11
+lee - purple - EVENEPOEL Remco - 1
+lee - 180
 aaron - pink - EVENEPOEL Remco - 1
 aaron - pink - CARTHY Hugh - 57
 aaron - pink - ROGLIC Primoz - 6
@@ -311,4 +376,4 @@ aaron - purple - CORT Magnus - 11
 aaron - purple - PEDERSEN Mads - 11
 aaron - purple - ACKERMANN Pascal - 11
 aaron - purple - GROVES Kaden - 11
-aaron - 235"""
+aaron - 231"""

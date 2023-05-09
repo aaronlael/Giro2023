@@ -303,7 +303,7 @@ kyle - purple - MATTHEWS Michael - 3
 kyle - purple - ACKERMANN Pascal - 13
 kyle - purple - PEDERSEN Mads - 5
 kyle - purple - CAVENDISH Mark - 38
-kyle - 217
+kyle - 213
 lee - pink - ROGLIC Primoz - 3
 lee - pink - EVENEPOEL Remco - 1
 lee - pink - THOMAS Geraint - 5
@@ -324,7 +324,7 @@ lee - purple - PEDERSEN Mads - 5
 lee - purple - MATTHEWS Michael - 3
 lee - purple - CORT Magnus - 38
 lee - purple - EVENEPOEL Remco - 7
-lee - 262
+lee - 258
 aaron - pink - EVENEPOEL Remco - 1
 aaron - pink - CARTHY Hugh - 37
 aaron - pink - ROGLIC Primoz - 3
@@ -345,4 +345,4 @@ aaron - purple - CORT Magnus - 38
 aaron - purple - PEDERSEN Mads - 5
 aaron - purple - ACKERMANN Pascal - 13
 aaron - purple - GROVES Kaden - 2
-aaron - 252"""
+aaron - 248"""
