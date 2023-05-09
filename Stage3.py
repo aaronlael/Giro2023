@@ -284,26 +284,26 @@ purple = """1		ITA	MILAN Jonathan	Bahrain Victorious	53
 37		FRA	RUSSO Clément	Team Arkéa-Samsic	1"""
 
 scriptresults = """kyle - pink - ROGLIC Primoz - 3
-kyle - pink - EVENEPOEL Remco - 1  
-kyle - pink - CARTHY Hugh - 37     
-kyle - pink - ALMEIDA Joao - 2     
-kyle - pink - THOMAS Geraint - 5   
-kyle - white - EVENEPOEL Remco - 1 
-kyle - white - ALMEIDA Joao - 2    
+kyle - pink - EVENEPOEL Remco - 1
+kyle - pink - CARTHY Hugh - 37
+kyle - pink - ALMEIDA Joao - 2
+kyle - pink - THOMAS Geraint - 5
+kyle - white - EVENEPOEL Remco - 1
+kyle - white - ALMEIDA Joao - 2
 kyle - white - MCNULTY Brandon - 21
-kyle - white - ARENSMAN Thymen - 7 
+kyle - white - ARENSMAN Thymen - 7
 kyle - white - HUYS Laurens - 18
 kyle - blue - VINE Jay - 13
 kyle - blue - PINOT Thibaut - 1
 kyle - blue - BOUWMAN Koen - 13
 kyle - blue - DOMBROWSKI Joe - 13
 kyle - blue - BARGUIL Warren - 13
-kyle - purple - VINE Jay - 29
-kyle - purple - PINOT Thibaut - 38
-kyle - purple - BOUWMAN Koen - 38
-kyle - purple - DOMBROWSKI Joe - 38
-kyle - purple - BARGUIL Warren - 38
-kyle - 330
+kyle - purple - GAVIRIA Fernando - 9
+kyle - purple - MATTHEWS Michael - 3
+kyle - purple - ACKERMANN Pascal - 13
+kyle - purple - PEDERSEN Mads - 5
+kyle - purple - CAVENDISH Mark - 38
+kyle - 217
 lee - pink - ROGLIC Primoz - 3
 lee - pink - EVENEPOEL Remco - 1
 lee - pink - THOMAS Geraint - 5
@@ -319,12 +319,12 @@ lee - blue - KUSS, Sepp - 13
 lee - blue - ROGLIČ Primož - 13
 lee - blue - EVENEPOEL Remco - 13
 lee - blue - HART Tao Geoghegan - 13
-lee - purple - PINOT Thibaut - 38
-lee - purple - KUSS, Sepp - 38
-lee - purple - ROGLIČ Primož - 38
+lee - purple - CAVENDISH Mark - 38
+lee - purple - PEDERSEN Mads - 5
+lee - purple - MATTHEWS Michael - 3
+lee - purple - CORT Magnus - 38
 lee - purple - EVENEPOEL Remco - 7
-lee - purple - HART Tao Geoghegan - 38
-lee - 330
+lee - 262
 aaron - pink - EVENEPOEL Remco - 1
 aaron - pink - CARTHY Hugh - 37
 aaron - pink - ROGLIC Primoz - 3
@@ -340,9 +340,9 @@ aaron - blue - KÄMNA Lennard - 13
 aaron - blue - DOMBROWSKI Joe - 13
 aaron - blue - VENDRAME Andrea - 13
 aaron - blue - BARGUIL Warren - 13
-aaron - purple - BOUWMAN Koen - 38
-aaron - purple - KÄMNA Lennard - 38
-aaron - purple - DOMBROWSKI Joe - 38
-aaron - purple - VENDRAME Andrea - 30
-aaron - purple - BARGUIL Warren - 38
-aaron - 373"""
+aaron - purple - MATTHEWS Michael - 3
+aaron - purple - CORT Magnus - 38
+aaron - purple - PEDERSEN Mads - 5
+aaron - purple - ACKERMANN Pascal - 13
+aaron - purple - GROVES Kaden - 2
+aaron - 252"""

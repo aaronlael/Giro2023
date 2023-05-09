@@ -271,26 +271,26 @@ purple = """1		ITA	MILAN Jonathan	Bahrain Victorious	50
 30		FRA	RUSSO Clément	Team Arkéa-Samsic	1"""
 
 scriptresults = """kyle - pink - ROGLIC Primoz - 5
-kyle - pink - EVENEPOEL Remco - 1 
-kyle - pink - CARTHY Hugh - 53    
-kyle - pink - ALMEIDA Joao - 3    
-kyle - pink - THOMAS Geraint - 6  
+kyle - pink - EVENEPOEL Remco - 1
+kyle - pink - CARTHY Hugh - 53
+kyle - pink - ALMEIDA Joao - 3
+kyle - pink - THOMAS Geraint - 6
 kyle - white - EVENEPOEL Remco - 1
-kyle - white - ALMEIDA Joao - 2   
+kyle - white - ALMEIDA Joao - 2
 kyle - white - MCNULTY Brandon - 3
 kyle - white - ARENSMAN Thymen - 9
-kyle - white - HUYS Laurens - 40  
+kyle - white - HUYS Laurens - 40
 kyle - blue - VINE Jay - 7
 kyle - blue - PINOT Thibaut - 7
 kyle - blue - BOUWMAN Koen - 7
 kyle - blue - DOMBROWSKI Joe - 7
 kyle - blue - BARGUIL Warren - 7
-kyle - purple - VINE Jay - 23
-kyle - blue - PINOT Thibaut - 31
-kyle - blue - BOUWMAN Koen - 31
-kyle - blue - DOMBROWSKI Joe - 31
-kyle - blue - BARGUIL Warren - 31
-kyle - 305
+kyle - purple - GAVIRIA Fernando - 7
+kyle - purple - MATTHEWS Michael - 12
+kyle - purple - ACKERMANN Pascal - 10
+kyle - purple - PEDERSEN Mads - 27
+kyle - purple - CAVENDISH Mark - 31
+kyle - 245
 lee - pink - ROGLIC Primoz - 5
 lee - pink - EVENEPOEL Remco - 1
 lee - pink - THOMAS Geraint - 6
@@ -306,12 +306,12 @@ lee - blue - KUSS, Sepp - 7
 lee - blue - ROGLIČ Primož - 7
 lee - blue - EVENEPOEL Remco - 7
 lee - blue - HART Tao Geoghegan - 7
-lee - blue - PINOT Thibaut - 31
-lee - blue - KUSS, Sepp - 31
-lee - blue - ROGLIČ Primož - 31
+lee - purple - CAVENDISH Mark - 31
+lee - purple - PEDERSEN Mads - 27
+lee - purple - MATTHEWS Michael - 12
+lee - purple - CORT Magnus - 31
 lee - purple - EVENEPOEL Remco - 5
-lee - blue - HART Tao Geoghegan - 31
-lee - 278
+lee - 255
 aaron - pink - EVENEPOEL Remco - 1
 aaron - pink - CARTHY Hugh - 53
 aaron - pink - ROGLIC Primoz - 5
@@ -327,9 +327,9 @@ aaron - blue - KÄMNA Lennard - 7
 aaron - blue - DOMBROWSKI Joe - 7
 aaron - blue - VENDRAME Andrea - 7
 aaron - blue - BARGUIL Warren - 7
-aaron - blue - BOUWMAN Koen - 31
-aaron - blue - KÄMNA Lennard - 31
-aaron - blue - DOMBROWSKI Joe - 31
-aaron - purple - VENDRAME Andrea - 25
-aaron - blue - BARGUIL Warren - 31
-aaron - 340"""
+aaron - purple - MATTHEWS Michael - 12
+aaron - purple - CORT Magnus - 31
+aaron - purple - PEDERSEN Mads - 27
+aaron - purple - ACKERMANN Pascal - 10
+aaron - purple - GROVES Kaden - 3
+aaron - 274"""

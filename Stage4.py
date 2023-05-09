@@ -326,12 +326,12 @@ kyle - blue - PINOT Thibaut - 1
 kyle - blue - BOUWMAN Koen - 21
 kyle - blue - DOMBROWSKI Joe - 21
 kyle - blue - BARGUIL Warren - 8
-kyle - purple - VINE Jay - 34
-kyle - purple - PINOT Thibaut - 46
-kyle - purple - BOUWMAN Koen - 35
-kyle - purple - DOMBROWSKI Joe - 46
-kyle - purple - BARGUIL Warren - 27
-kyle - 401
+kyle - purple - GAVIRIA Fernando - 13
+kyle - purple - MATTHEWS Michael - 3
+kyle - purple - ACKERMANN Pascal - 16
+kyle - purple - PEDERSEN Mads - 7
+kyle - purple - CAVENDISH Mark - 46
+kyle - 298
 lee - pink - ROGLIC Primoz - 5
 lee - pink - EVENEPOEL Remco - 2
 lee - pink - THOMAS Geraint - 6
@@ -347,12 +347,12 @@ lee - blue - KUSS, Sepp - 21
 lee - blue - ROGLIČ Primož - 21
 lee - blue - EVENEPOEL Remco - 21
 lee - blue - HART Tao Geoghegan - 21
-lee - purple - PINOT Thibaut - 46
-lee - purple - KUSS, Sepp - 46
-lee - purple - ROGLIČ Primož - 46
+lee - purple - CAVENDISH Mark - 46
+lee - purple - PEDERSEN Mads - 7
+lee - purple - MATTHEWS Michael - 3
+lee - purple - CORT Magnus - 46
 lee - purple - EVENEPOEL Remco - 11
-lee - purple - HART Tao Geoghegan - 46
-lee - 466
+lee - 384
 aaron - pink - EVENEPOEL Remco - 2
 aaron - pink - CARTHY Hugh - 23
 aaron - pink - ROGLIC Primoz - 5
@@ -368,9 +368,9 @@ aaron - blue - KÄMNA Lennard - 21
 aaron - blue - DOMBROWSKI Joe - 21
 aaron - blue - VENDRAME Andrea - 21
 aaron - blue - BARGUIL Warren - 8
-aaron - purple - BOUWMAN Koen - 35
-aaron - purple - KÄMNA Lennard - 46
-aaron - purple - DOMBROWSKI Joe - 46
-aaron - purple - VENDRAME Andrea - 36
-aaron - purple - BARGUIL Warren - 27
-aaron - 475"""
+aaron - purple - MATTHEWS Michael - 3
+aaron - purple - CORT Magnus - 46
+aaron - purple - PEDERSEN Mads - 7
+aaron - purple - ACKERMANN Pascal - 16
+aaron - purple - GROVES Kaden - 2
+aaron - 359"""

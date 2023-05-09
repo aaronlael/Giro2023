@@ -1,4 +1,4 @@
-from Stage5 import stagewinner, pink, white, blue, purple
+from Stage4 import stagewinner, pink, white, blue, purple
 from friends import kyle, lee, aaron
 
 pinklist = pink.split("\n")
@@ -34,7 +34,7 @@ for player in players:
         else:
             print(f"{player['player']} - blue - {rider} - {len(bluelist) + 1}")
             score += len(bluelist) + 1
-    for rider in player['blue']:
+    for rider in player['purple']:
         for i in range(len(purplelist)):
             if rider in purplelist[i]:
                 print(f"{player['player']} - purple - {rider} - {i+1}")
