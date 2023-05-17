@@ -1,4 +1,4 @@
-from Stage10 import stagewinner, pink, white, blue, purple
+from Stage11 import stagewinner, pink, white, blue, purple
 from friends import kyle, lee, aaron
 
 
