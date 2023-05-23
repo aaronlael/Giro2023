@@ -1,8 +1,8 @@
-from Stage13 import stagewinner, pink, white, blue, purple
+from Stage16 import stagewinner, pink, white, blue, purple
 from friends import kyle, lee, aaron
 
 
-rest_day_tomorrow = False
+rest_day_tomorrow = True
 final_day_today = False
 
 pinklist = pink.split("\n")
